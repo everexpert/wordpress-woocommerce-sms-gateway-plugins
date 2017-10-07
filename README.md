@@ -3,6 +3,8 @@ SSL Wireless, Bangladesh SMS Gateway plugins for wordpress+woocommerce
 
 You can send custom confirmation SMS to customer whenever an order placed and also when the order is completed.
 The custom SMS shortcodes are as follows:
+
+## wordpress-woocommerce-sms-gateway-plugins
 {SHOP_NAME}
 {CURRENCY_NAME}
 {CURRENCY_SIGN}
